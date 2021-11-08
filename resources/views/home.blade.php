@@ -31,7 +31,7 @@
 </style>
 
 <div class="bg-text">
-<h1 class="text-uppercase font-weight-bold">Startup Business</h1>
+<h1 class="text-uppercase font-weight-bold">Startup CheapTalk</h1>
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi nemo doloribus eius facere accusantium suscipit similique odit minima laboriosam et, voluptates obcaecati, amet quisquam nostrum quasi ut consectetur dolore. Reiciendis.</p>
                 <section class="col-12">
                   <a class="btn btn-danger text-uppercase mt-5" href="/register">Register Now</a>
