@@ -11,8 +11,8 @@
 <div class="row">
     <div class="col-md-4 offset-md-4">
         <div class="card mt-5">
-            <div class="card-header bg-dark bg-gradient text-white">
-                <h3 class="card-title">User Login</h3>
+            <div class="card-header bg-primary bg-gradient text-white">
+                <h3 class="card-title">Login</h3>
             </div>
             <div class="card-body">
                 <form action="{{url('/login')}}" method="post">
